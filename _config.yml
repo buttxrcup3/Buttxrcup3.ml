@@ -23,7 +23,7 @@ email: msierra_02@arcadia.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Driven, Eager to Learn, and Focused
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://buttxcup3.ml/" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: buttxrcup3
 github_username:  buttxrcup3
 
